@@ -1,6 +1,6 @@
-## NAMA : Azrul Rochmad Rifai
-## NIM  : 20.01.013.036
-## MK   : Pemrograman Mobile
+## NAMA : Muhammad Fiqar Ramadhan
+## NIM  : 20.01.013.034
+## MK   : Pemrograman Mobile - B
 #
 # RANGKUMAN PLAYLIST DJANGO
 Django merupakan salah satu web framework yang menggunakan bahasa pemrograman python, django berbasis MVT adalah kependekan dari Model, View, dan Template. Pengertian Web framework adalah sebuah tools yang berguna untuk memudahkan programmer ketika membuat aplikasi berbasis web.
